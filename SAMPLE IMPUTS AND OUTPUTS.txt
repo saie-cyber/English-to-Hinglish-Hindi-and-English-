@@ -1,0 +1,16 @@
+SAMPLE INPUTS(ENGLISH) ALONG WITH THEIR OUTPUTS(HINGLISH) :
+
+
+1) Enter an English sentence 1 : Definitely share your feedback in the comment section.
+
+   Translated Sentence 1 (Hinglish): निश्चित रूप से comment section में अपनी feedback साझा करें।
+
+
+2) Enter an English sentence 2 : So even if it's a big video, I will clearly mention all the products.
+
+   Translated Sentence 2 (Hinglish): तो भले ही यह एक बड़ा video है, मैं स्पष्ट रूप से सभी products का उल्लेख करूंगा।
+
+
+3) Enter an English sentence 3 : I was waiting for my bag.
+
+   Translated Sentence 3 (Hinglish): मैं अपने बैग का इंतजार कर रहा था।
