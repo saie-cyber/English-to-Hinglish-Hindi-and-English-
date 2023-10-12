@@ -13,4 +13,4 @@ SAMPLE INPUTS(ENGLISH) ALONG WITH THEIR OUTPUTS(HINGLISH) :
 
 3) Enter an English sentence 3 : I was waiting for my bag.
 
-   Translated Sentence 3 (Hinglish): मैं अपने बैग का इंतजार कर रहा था।
+   Translated Sentence 3 (Hinglish): मैं अपने bag का waiting कर रहा था।
